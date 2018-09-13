@@ -1,0 +1,15 @@
+h1{
+  color: lightblue;
+  text-align:center;
+  padding-top:15px;
+}
+p{
+  text-align:center;
+  color:white;
+}
+div {
+  background-color: teal;
+  width:10%;
+  height: 400px;
+  font-family: Arial, sans-serif;
+}
